@@ -1,8 +1,31 @@
-# React + Vite
+# 💼 Full Stack Job Portal App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern full-stack job portal built with **React.js**, **Supabase**, **Clerk Authentication**, and **Shadcn UI** — designed for job seekers and recruiters to connect with ease.
 
-Currently, two official plugins are available:
+> 🚀 This project showcases real-world full-stack development skills and is a great portfolio booster for job applications and freelancing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🌟 Features
+
+- 👤 **User Authentication** with Clerk (signup/login)
+- 📝 **Post a Job** – Employers can list jobs
+- 🔍 **Search & Filter** – Users can search jobs by keyword, location, or category
+- ❤️ **Save Jobs** – Users can bookmark/save jobs to their dashboard
+- 🖼️ **Beautiful UI** – Styled with Tailwind CSS + Shadcn UI
+- 🔁 **Realtime DB** – Supabase handles all job CRUD operations
+- 📱 **Responsive Design** – Fully responsive and mobile-friendly
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer       | Technology                |
+|-------------|---------------------------|
+| 🚀 Frontend | React.js, Vite            |
+| 🎨 Styling  | Tailwind CSS, Shadcn UI   |
+| 🔐 Auth     | Clerk                     |
+| 💾 Backend  | Supabase (PostgreSQL + API) |
+| 📦 Deployment | Vercel                  |
+
+Live Demo:http://localhost:5173/
