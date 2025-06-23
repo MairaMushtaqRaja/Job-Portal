@@ -2,7 +2,7 @@
 
 A modern full-stack job portal built with **React.js**, **Supabase**, **Clerk Authentication**, and **Shadcn UI** — designed for job seekers and recruiters to connect with ease.
 
-> 🚀 This project showcases real-world full-stack development skills and is a great portfolio booster for job applications and freelancing.
+
 
 ---
 
