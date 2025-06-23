@@ -28,4 +28,4 @@ A modern full-stack job portal built with **React.js**, **Supabase**, **Clerk Au
 | 💾 Backend  | Supabase (PostgreSQL + API) |
 | 📦 Deployment | Vercel                  |
 
-Live Demo:http://localhost:5173/
+
